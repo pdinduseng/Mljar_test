@@ -1,0 +1,16 @@
+if (quantity_dry <= 0.5) and (extraction_type_other <= 0.5) and (amount_tsh <= 1.5) then class: functional (proba: 59.13%) | based on 23,736 samples
+
+if (quantity_dry <= 0.5) and (extraction_type_other <= 0.5) and (amount_tsh > 1.5) then class: functional (proba: 74.68%) | based on 12,429 samples
+
+if (quantity_dry > 0.5) and (lga_Shinyanga Rural <= 0.5) and (lga_Sengerema <= 0.5) then class: non functional (proba: 97.72%) | based on 4,600 samples
+
+if (quantity_dry <= 0.5) and (extraction_type_other > 0.5) and (source_rainwater harvesting <= 0.5) then class: non functional (proba: 80.53%) | based on 3,390 samples
+
+if (quantity_dry <= 0.5) and (extraction_type_other > 0.5) and (source_rainwater harvesting > 0.5) then class: functional (proba: 68.35%) | based on 316 samples
+
+if (quantity_dry > 0.5) and (lga_Shinyanga Rural <= 0.5) and (lga_Sengerema > 0.5) then class: non functional (proba: 60.38%) | based on 53 samples
+
+if (quantity_dry > 0.5) and (lga_Shinyanga Rural > 0.5) and (latitude > -3.746) then class: functional (proba: 83.33%) | based on 18 samples
+
+if (quantity_dry > 0.5) and (lga_Shinyanga Rural > 0.5) and (latitude <= -3.746) then class: non functional (proba: 62.5%) | based on 8 samples
+
