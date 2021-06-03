@@ -1,0 +1,270 @@
+{
+    "uid": "af7bf568-aa23-43b3-9bb8-16df402a8ec4",
+    "name": "4_Default_NeuralNetwork",
+    "preprocessing": [
+        {
+            "scale": [
+                {
+                    "scale": [
+                        21449.65078456031,
+                        0.26568643599699243,
+                        0.24546333512092458,
+                        0.34900178643705204,
+                        0.4856625378127592,
+                        0.4755672867884302,
+                        0.465796770623048,
+                        0.349415819201492,
+                        0.49652398050195345,
+                        3189.991605218548,
+                        354839.8323871429,
+                        2.5837509123754683,
+                        2.947062494835144,
+                        24.440187814935236,
+                        24.13938334024456,
+                        3.0292410077291456
+                    ],
+                    "mean": [
+                        37219.39654320988,
+                        0.9235690235690236,
+                        0.9356004489337822,
+                        0.8580471380471381,
+                        0.6188776655443322,
+                        0.654388327721661,
+                        0.6817508417508418,
+                        0.8576430976430977,
+                        0.5588552188552188,
+                        321.3999068462402,
+                        -146541.8288536127,
+                        35.10413513058719,
+                        -5.704625480319865,
+                        1980.5496071829405,
+                        31.37530864197531,
+                        4.373288439955107
+                    ],
+                    "var": [
+                        460087518.7795886,
+                        0.07058928227278397,
+                        0.06025224888868733,
+                        0.12180224693625367,
+                        0.23586810063472977,
+                        0.22616424426330903,
+                        0.21696663152286036,
+                        0.12209141470824973,
+                        0.24653606321350427,
+                        10176046.441364808,
+                        125911306648.53564,
+                        6.675768777201064,
+                        8.685177348463942,
+                        597.3227804293088,
+                        582.7098280472766,
+                        9.17630108290789
+                    ],
+                    "n_samples_seen": 44550,
+                    "n_features_in": 16,
+                    "columns": [
+                        "id",
+                        "subvillage_Other",
+                        "ward_Other",
+                        "public_meeting_True",
+                        "scheme_management_VWC",
+                        "permit_True",
+                        "management_vwc",
+                        "water_quality_soft",
+                        "quantity_enough",
+                        "amount_tsh",
+                        "gps_height",
+                        "longitude",
+                        "latitude",
+                        "construction_year",
+                        "years_of_operation",
+                        "month"
+                    ],
+                    "scale_method": "scale_normal"
+                }
+            ],
+            "categorical_y": {
+                "functional": 0,
+                "functional needs repair": 1,
+                "non functional": 2
+            },
+            "ml_task": "multiclass_classification",
+            "params": {
+                "columns_preprocessing": {
+                    "id": [
+                        "scale_normal"
+                    ],
+                    "subvillage_Other": [
+                        "scale_normal"
+                    ],
+                    "ward_Other": [
+                        "scale_normal"
+                    ],
+                    "public_meeting_True": [
+                        "scale_normal"
+                    ],
+                    "scheme_management_VWC": [
+                        "scale_normal"
+                    ],
+                    "permit_True": [
+                        "scale_normal"
+                    ],
+                    "management_vwc": [
+                        "scale_normal"
+                    ],
+                    "water_quality_soft": [
+                        "scale_normal"
+                    ],
+                    "quantity_enough": [
+                        "scale_normal"
+                    ],
+                    "amount_tsh": [
+                        "scale_normal"
+                    ],
+                    "gps_height": [
+                        "scale_normal"
+                    ],
+                    "longitude": [
+                        "scale_normal"
+                    ],
+                    "latitude": [
+                        "scale_normal"
+                    ],
+                    "construction_year": [
+                        "scale_normal"
+                    ],
+                    "years_of_operation": [
+                        "scale_normal"
+                    ],
+                    "month": [
+                        "scale_normal"
+                    ]
+                },
+                "target_preprocessing": [
+                    "na_exclude",
+                    "categorical_to_int"
+                ],
+                "ml_task": "multiclass_classification"
+            }
+        }
+    ],
+    "learners": [
+        {
+            "library_version": "0.24.2",
+            "algorithm_name": "Neural Network",
+            "algorithm_short_name": "Neural Network",
+            "uid": "6f670e12-7f88-42a6-bdb9-1b3026477b52",
+            "params": {
+                "model_type": "Neural Network",
+                "ml_task": "multiclass_classification",
+                "n_jobs": -1,
+                "dense_1_size": 32,
+                "dense_2_size": 16,
+                "learning_rate": 0.05,
+                "seed": 4,
+                "num_class": 3,
+                "explain_level": 2
+            },
+            "name": "learner_fold_0"
+        }
+    ],
+    "params": {
+        "additional": {
+            "max_rows_limit": null,
+            "max_cols_limit": null
+        },
+        "preprocessing": {
+            "columns_preprocessing": {
+                "id": [
+                    "scale_normal"
+                ],
+                "subvillage_Other": [
+                    "scale_normal"
+                ],
+                "ward_Other": [
+                    "scale_normal"
+                ],
+                "public_meeting_True": [
+                    "scale_normal"
+                ],
+                "scheme_management_VWC": [
+                    "scale_normal"
+                ],
+                "permit_True": [
+                    "scale_normal"
+                ],
+                "management_vwc": [
+                    "scale_normal"
+                ],
+                "water_quality_soft": [
+                    "scale_normal"
+                ],
+                "quantity_enough": [
+                    "scale_normal"
+                ],
+                "amount_tsh": [
+                    "scale_normal"
+                ],
+                "gps_height": [
+                    "scale_normal"
+                ],
+                "longitude": [
+                    "scale_normal"
+                ],
+                "latitude": [
+                    "scale_normal"
+                ],
+                "construction_year": [
+                    "scale_normal"
+                ],
+                "years_of_operation": [
+                    "scale_normal"
+                ],
+                "month": [
+                    "scale_normal"
+                ]
+            },
+            "target_preprocessing": [
+                "na_exclude",
+                "categorical_to_int"
+            ],
+            "ml_task": "multiclass_classification"
+        },
+        "validation_strategy": {
+            "validation_type": "split",
+            "train_ratio": 0.75,
+            "shuffle": true,
+            "stratify": true,
+            "X_path": "AutoML_4/X.data",
+            "y_path": "AutoML_4/y.data",
+            "results_path": "AutoML_4"
+        },
+        "learner": {
+            "model_type": "Neural Network",
+            "ml_task": "multiclass_classification",
+            "n_jobs": -1,
+            "dense_1_size": 32,
+            "dense_2_size": 16,
+            "learning_rate": 0.05,
+            "seed": 4,
+            "num_class": 3,
+            "explain_level": 2
+        },
+        "automl_random_state": 1234,
+        "ml_task": "multiclass_classification",
+        "explain_level": 2,
+        "name": "4_Default_NeuralNetwork",
+        "status": "initialized",
+        "final_loss": null,
+        "train_time": null,
+        "data_type": "original",
+        "max_time_for_learner": 360.0
+    },
+    "saved": [
+        "4_Default_NeuralNetwork/learner_fold_0.neural_network"
+    ],
+    "predictions_fname": "4_Default_NeuralNetwork/predictions_validation.csv",
+    "metric_name": "accuracy",
+    "final_loss": -0.7677441077441077,
+    "train_time": 68.67280673980713,
+    "is_stacked": false
+}

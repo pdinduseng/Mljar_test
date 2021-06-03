@@ -1,0 +1,327 @@
+feature,mean_importance
+source_machine dbh,-0.00034932594817322916
+scheme_name_None,-2.6155750662781863e-05
+lga_Missungwi,-2.1090711972426844e-07
+funder_Dwsp,-4.268960140940692e-08
+id,-2.2204460492503132e-17
+subvillage_Miembeni,-2.2204460492503132e-17
+lga_Maswa,-2.2204460492503132e-17
+ward_Kitunda,-2.2204460492503132e-17
+lga_Lindi Rural,-2.2204460492503132e-17
+lga_Kilolo,-2.2204460492503132e-17
+scheme_management_Water Board,-2.2204460492503132e-17
+basin_Ruvuma / Southern Coast,-2.2204460492503132e-17
+source_other,-2.2204460492503132e-17
+permit_False,-2.2204460492503132e-17
+water_quality_milky,-2.2204460492503132e-17
+management_water authority,-2.2204460492503132e-17
+lga_Handeni,-2.2204460492503132e-17
+funder_World Bank,-2.2204460492503132e-17
+management_other - school,-2.2204460492503132e-17
+lga_Tarime,-2.2204460492503132e-17
+funder_0,-2.2204460492503132e-17
+lga_Tandahimba,-2.2204460492503132e-17
+lga_Songea Urban,-2.2204460492503132e-17
+lga_Singida Urban,0.0
+lga_Hanang,0.0
+lga_Temeke,0.0
+lga_Hai,0.0
+lga_Geita,0.0
+lga_Chunya,0.0
+lga_Igunga,0.0
+lga_Chato,0.0
+lga_Chamwino,0.0
+lga_Bunda,0.0
+lga_Bukombe,0.0
+lga_Dodoma Urban,0.0
+lga_Ilala,0.0
+lga_Ileje,0.0
+lga_Ilemela,0.0
+lga_Iramba,0.0
+lga_Iringa Rural,0.0
+lga_Karagwe,0.0
+lga_Karatu,0.0
+lga_Kasulu,0.0
+lga_Kibaha,0.0
+lga_Kibondo,0.0
+lga_Kigoma Urban,0.0
+lga_Kilindi,0.0
+lga_Tanga,0.0
+lga_Kilombero,0.0
+lga_Kilosa,0.0
+lga_Bukoba Urban,0.0
+lga_Bukoba Rural,0.0
+lga_Biharamulo,0.0
+lga_Bariadi,0.0
+management_private operator,0.0
+management_unknown,0.0
+management_vwc,0.0
+management_water board,0.0
+management_wug,0.0
+payment_type_annually,0.0
+payment_type_monthly,0.0
+payment_type_on failure,0.0
+payment_type_other,0.0
+water_quality_coloured,0.0
+water_quality_fluoride,0.0
+water_quality_fluoride abandoned,0.0
+gps_height,0.0
+water_quality_salty,0.0
+lga_Kilwa,0.0
+water_quality_salty abandoned,0.0
+quantity_unknown,0.0
+source_dam,0.0
+lga_Uyui,0.0
+source_hand dtw,0.0
+source_lake,0.0
+lga_Urambo,0.0
+lga_Ulanga,0.0
+source_unknown,0.0
+lga_Tunduru,0.0
+lga_Arusha Rural,0.0
+lga_Arusha Urban,0.0
+lga_Babati,0.0
+lga_Bagamoyo,0.0
+lga_Bahi,0.0
+water_quality_soft,0.0
+lga_Kinondoni,0.0
+lga_Kishapu,0.0
+lga_Singida Rural,0.0
+lga_Mtwara Rural,0.0
+lga_Mtwara Urban,0.0
+lga_Mufindi,0.0
+lga_Muheza,0.0
+lga_Muleba,0.0
+lga_Musoma Rural,0.0
+lga_Mvomero,0.0
+lga_Mwanga,0.0
+lga_Nachingwea,0.0
+lga_Namtumbo,0.0
+lga_Nanyumbu,0.0
+lga_Newala,0.0
+lga_Ngara,0.0
+lga_Ngorongoro,0.0
+lga_Njombe,0.0
+lga_Nkasi,0.0
+lga_Nyamagana,0.0
+lga_Pangani,0.0
+lga_Rombo,0.0
+lga_Rorya,0.0
+lga_Ruangwa,0.0
+lga_Rufiji,0.0
+lga_Rungwe,0.0
+lga_Same,0.0
+lga_Serengeti,0.0
+lga_Shinyanga Urban,0.0
+lga_Siha,0.0
+lga_Sikonge,0.0
+lga_Simanjiro,0.0
+lga_Mpwapwa,0.0
+lga_Songea Rural,0.0
+lga_Mpanda,0.0
+lga_Moshi Urban,0.0
+lga_Kiteto,0.0
+lga_Kondoa,0.0
+lga_Kongwa,0.0
+lga_Kyela,0.0
+lga_Lindi Urban,0.0
+lga_Tabora Urban,0.0
+lga_Liwale,0.0
+management_parastatal,0.0
+lga_Ludewa,0.0
+lga_Lushoto,0.0
+lga_Mafia,0.0
+lga_Makete,0.0
+lga_Manyoni,0.0
+lga_Masasi,0.0
+lga_Kisarawe,0.0
+lga_Sumbawanga Urban,0.0
+lga_Mbeya Rural,0.0
+lga_Mbinga,0.0
+lga_Mbozi,0.0
+lga_Mbulu,0.0
+lga_Meatu,0.0
+lga_Meru,0.0
+lga_Sumbawanga Rural,0.0
+lga_Misenyi,0.0
+lga_Mkinga,0.0
+lga_Mkuranga,0.0
+lga_Monduli,0.0
+lga_Morogoro Rural,0.0
+lga_Morogoro Urban,0.0
+lga_Moshi Rural,0.0
+lga_Mbarali,0.0
+lga_Longido,0.0
+management_wua,0.0
+public_meeting_True,0.0
+subvillage_Msikitini,0.0
+subvillage_Mtakuja,0.0
+subvillage_Muungano,0.0
+subvillage_Other,0.0
+subvillage_Shuleni,0.0
+subvillage_Sokoni,0.0
+subvillage_Songambele,0.0
+subvillage_no_data,0.0
+ward_Chalinze,0.0
+ward_Chanika,0.0
+ward_Igosi,0.0
+ward_Imalinyi,0.0
+ward_Magomeni,0.0
+ward_Maji ya Chai,0.0
+subvillage_Mlimani,0.0
+ward_Maramba,0.0
+ward_Matola,0.0
+ward_Mdandu,0.0
+ward_Mishamo,0.0
+ward_Msindo,0.0
+ward_Mtwango,0.0
+ward_Nduruma,0.0
+ward_Ngarenanyuki,0.0
+ward_Other,0.0
+ward_Siha Kati,0.0
+ward_Usuka,0.0
+ward_Vikindu,0.0
+ward_Zinga/Ikerege,0.0
+installer_Central government,0.0
+public_meeting_False,0.0
+management_other,0.0
+installer_DWE,0.0
+subvillage_Mjini,0.0
+subvillage_Mbuyuni,0.0
+installer_District Council,0.0
+installer_Government,0.0
+installer_DANID,0.0
+installer_HESAWA,0.0
+installer_Hesawa,0.0
+installer_KKKT,0.0
+installer_LGA,0.0
+installer_Community,0.0
+installer_RWE,0.0
+installer_TASAF,0.0
+installer_TCRS,0.0
+installer_WEDECO,0.0
+installer_World vision,0.0
+installer_no_data,0.0
+subvillage_Mjimwema,0.0
+basin_Internal,0.0
+basin_Lake Rukwa,0.0
+installer_Commu,0.0
+basin_Lake Victoria,0.0
+basin_Pangani,0.0
+basin_Rufiji,0.0
+basin_Wami / Ruvu,0.0
+subvillage_1,0.0
+subvillage_Kanisani,0.0
+subvillage_Kati,0.0
+subvillage_Kibaoni,0.0
+subvillage_M,0.0
+subvillage_Madukani,0.0
+subvillage_Majengo,0.0
+subvillage_Mapinduzi,0.0
+basin_Lake Nyasa,0.0
+public_meeting_no_data,0.0
+installer_DANIDA,0.0
+scheme_management_None,0.0
+scheme_name_no_data,0.0
+scheme_name_wanging'ombe supply scheme,0.0
+scheme_name_wanging'ombe water supply s,0.0
+permit_True,0.0
+permit_no_data,0.0
+funder_Rwssp,0.0
+funder_Private Individual,0.0
+funder_Norad,0.0
+funder_Ministry Of Water,0.0
+funder_Kkkt,0.0
+extraction_type_afridev,0.0
+extraction_type_cemo,0.0
+extraction_type_climax,0.0
+extraction_type_gravity,0.0
+extraction_type_india mark ii,0.0
+extraction_type_india mark iii,0.0
+extraction_type_ksb,0.0
+extraction_type_windmill,0.0
+extraction_type_walimi,0.0
+extraction_type_swn 80,0.0
+extraction_type_submersible,0.0
+extraction_type_other - swn 81,0.0
+extraction_type_other - rope pump,0.0
+installer_CES,0.0
+funder_Danida,0.0
+extraction_type_other - mkulima/shinyanga,0.0
+funder_Dhv,0.0
+funder_District Council,0.0
+extraction_type_mono,0.0
+funder_Germany Republi,0.0
+funder_Hesawa,0.0
+extraction_type_other - play pump,0.0
+funder_Tasaf,0.0
+scheme_name_Uroki-Bomang'ombe water sup,0.0
+funder_Unicef,0.0
+installer_0,0.0
+scheme_management_Other,0.0
+scheme_management_Parastatal,0.0
+scheme_management_Private operator,0.0
+scheme_management_SWC,0.0
+funder_no_data,0.0
+scheme_management_WUA,0.0
+scheme_management_WUG,0.0
+scheme_management_Water authority,0.0
+scheme_management_no_data,0.0
+scheme_name_Bagamoyo wate,0.0
+scheme_name_Borehole,0.0
+scheme_name_Chalinze wate,0.0
+funder_Tcrs,0.0
+scheme_name_DANIDA,0.0
+scheme_name_Machumba estate pipe line,0.0
+scheme_name_Handeni Trunk Main(H,0.0
+scheme_name_I,0.0
+scheme_name_K,0.0
+funder_Water,0.0
+scheme_name_Other,0.0
+scheme_name_Kijiji,0.0
+scheme_name_Kirua kahe gravity water supply trust,0.0
+scheme_name_Ngana water supplied scheme,0.0
+scheme_name_Government,0.0
+scheme_name_N,0.0
+scheme_name_Makwale water supplied sche,0.0
+lga_Korogwe,1.5448404260043346e-06
+lga_Magu,2.399196368330081e-06
+scheme_management_Trust,9.032137396225437e-06
+lga_Kwimba,1.0775541410334988e-05
+funder_World Vision,1.4319201520862634e-05
+ward_Itete,1.6914964831959977e-05
+extraction_type_nira/tanira,1.7410725111766114e-05
+management_trust,2.013155648179499e-05
+management_company,2.0980842878559614e-05
+scheme_management_Company,2.3853933417461447e-05
+scheme_name_M,2.430938757307377e-05
+month,3.357359266626947e-05
+installer_Other,3.581801692704722e-05
+scheme_management_VWC,5.4375049658061944e-05
+lga_Nzega,7.253638542490393e-05
+lga_Kigoma Rural,0.00011067510188151885
+basin_Lake Tanganyika,0.00012242782104663342
+quantity_seasonal,0.00013373289118889797
+water_quality_unknown,0.00014531266480735105
+payment_type_unknown,0.0001897611003680355
+funder_Other,0.0002599802025459397
+quantity_insufficient,0.00038552050888587266
+lga_Ukerewe,0.00038748104819441576
+payment_type_never pay,0.00040270096489054553
+lga_Shinyanga Rural,0.00041429892587658835
+source_river,0.00041457485314997375
+payment_type_per bucket,0.0004318356642300181
+years_of_operation,0.0005684990465733674
+quantity_enough,0.0014792245730611108
+latitude,0.0015572550029259835
+source_shallow well,0.001620377658708727
+construction_year,0.0020702573148374094
+lga_Kahama,0.0021680277801124914
+lga_Sengerema,0.005543945823975149
+source_rainwater harvesting,0.006056105276320634
+longitude,0.008593425583896818
+funder_Government Of Tanzania,0.009875156937584562
+source_spring,0.01737554195708211
+amount_tsh,0.018264640442471846
+extraction_type_other,0.09236535179062674
+quantity_dry,0.2624482502982978
